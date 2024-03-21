@@ -1,4 +1,4 @@
-touch ab.java c.py bc.py
+touch ab.java c.py bc.py d.py
 git add .
-git commit -am "ll script running"
+git commit -am "ll scning"
 git push master Dev
