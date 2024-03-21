@@ -1,4 +1,4 @@
-touch ab.java bc.py
+touch ab.java c.py bc.py
 git add .
-git commit -am "sheell script running"
+git commit -am "ll script running"
 git push master Dev
